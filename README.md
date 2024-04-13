@@ -16,25 +16,34 @@ In this course, we delve into various FPGA exercises aimed at understanding and 
    
    Description: Developing a basic convolution operation using FPGA.
    
-   ![Simple Convolution](images/simple_convolution.png)
+      <p align="center">
+     <img src="images/simple_convolution.png" alt="Simple Convolution" width="200" />
+       </p>
 
 3. **256 Byte Dual Port RAM**
    
    Description: Designing a dual-port RAM module capable of storing 256 bytes of data.
    
-   ![256 Byte Dual Port RAM](images/dual_port_ram.png)
+      <p align="center">
+     <img src="images/dual_port_ram.png" alt="256 Byte Dual Port RAM" width="200" />
+       </p>
 
 4. **SPI Protocol**
    
    Description: Implementing the Serial Peripheral Interface (SPI) protocol on FPGA.
    
-   ![SPI Protocol](images/spi_protocol.png)
+      <p align="center">
+     <img src="images/spi_protocol.png" alt="SPI Protocol" width="200" />
+       </p>
+
 
 5. **Matrix Multiplication Circuit**
    
    Description: Creating a circuit for matrix multiplication leveraging FPGA capabilities.
    
-   ![Matrix Multiplication Circuit](images/matrix_multiplication.png)
+      <p align="center">
+     <img src="images/matrix_multiplication.png" alt="Matrix Multiplication Circuit" width="200" />
+      </p>
 
 ## How to Use
 
