@@ -45,6 +45,11 @@ In this course, we delve into various FPGA exercises aimed at understanding and 
      <img src="images/matrix_multiplication.png" alt="Matrix Multiplication Circuit" width="300" />
       </p>
 
+## Tools Used
+
+- **Programming Language**: VHDL
+- **Software**: ISE (Integrated Synthesis Environment) by Xilinx
+
 ## How to Use
 
 Each project is contained within its respective directory. You can navigate to each project's directory to find the necessary files and documentation. Follow the instructions provided within each project's directory to set up and run the project on your FPGA board or simulator.
