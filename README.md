@@ -17,7 +17,7 @@ In this course, we delve into various FPGA exercises aimed at understanding and 
    Description: Developing a basic convolution operation using FPGA.
    
       <p align="center">
-     <img src="images/simple_convolution.png" alt="Simple Convolution" width="200" />
+     <img src="images/simple_convolution.png" alt="Simple Convolution" width="300" />
        </p>
 
 3. **256 Byte Dual Port RAM**
@@ -33,7 +33,7 @@ In this course, we delve into various FPGA exercises aimed at understanding and 
    Description: Implementing the Serial Peripheral Interface (SPI) protocol on FPGA.
    
       <p align="center">
-     <img src="images/spi_protocol.png" alt="SPI Protocol" width="200" />
+     <img src="images/spi_protocol.png" alt="SPI Protocol" width="300" />
        </p>
 
 
@@ -42,7 +42,7 @@ In this course, we delve into various FPGA exercises aimed at understanding and 
    Description: Creating a circuit for matrix multiplication leveraging FPGA capabilities.
    
       <p align="center">
-     <img src="images/matrix_multiplication.png" alt="Matrix Multiplication Circuit" width="200" />
+     <img src="images/matrix_multiplication.png" alt="Matrix Multiplication Circuit" width="300" />
       </p>
 
 ## How to Use
@@ -55,6 +55,6 @@ Contributions to this repository are welcome! If you have any improvements, bug 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the contents of this repository for educational and non-commercial purposes.
+Feel free to use, modify, and distribute the contents of this repository for educational and non-commercial purposes.
 
 ---
